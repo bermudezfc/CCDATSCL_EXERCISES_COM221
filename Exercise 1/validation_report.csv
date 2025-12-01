@@ -1,0 +1,4 @@
+Rule,Count
+Price must be positive,0
+Host ID should not be null,0
+Minimum nights must be ≥ 1,"(0, 19)"
